@@ -30,18 +30,42 @@ B. Identifiers
     • 'pg' which means 'phrase of gerund'
     • 'pn' which means 'phrase of noun'
 
-• 'subj1' which means 'the first-person singular subject pronoun'
-• 'subj2' means 'the second-person singular subject pronoun'
-• 'subj3' means 'the third-person singular subject pronoun'
+  4. Subject
+  ----------
+    a. Singular
+    -----------
+    • 'subj1' which means 'the first-person singular subject pronoun'
+    • 'subj2' means 'the second-person singular subject pronoun'
+    • 'subj3' means 'the third-person singular subject pronoun'
 
-• 'subj4' means 'the first-person plural subject pronoun'
-• 'subj5' means 'the second-person plural subject pronoun'
-• 'subj6' means 'the third-person plural subject pronoun'
+    b. Plural
+    ---------
+    • 'subj4' means 'the first-person plural subject pronoun'
+    • 'subj5' means 'the second-person plural subject pronoun'
+    • 'subj6' means 'the third-person plural subject pronoun'
 
-• 'dobj' which means 'direct object of a sentence'
-• 'idobj' which means 'indirect object of a sentence'
+  5. Object
+  ---------
+    a. Singular
+      • 'obj1' which means 'the first-person singular object pronoun'
+      • 'obj2' means 'the second-person singular object pronoun'
+      • 'obj3' means 'the third-person singular object pronoun'
 
-• 'at' which means  'adverb of time'
+    b. Plural
+      • 'obj4' means 'the first-person plural object pronoun'
+      • 'obj5' means 'the second-person plural object pronoun'
+      • 'obj6' means 'the third-person plural object pronoun'
+
+    c. Direct
+    ---------
+      • 'dobj' which means 'direct object of a sentence'
+
+    d. Indirect
+    -----------
+      • 'idobj' which means 'indirect object of a sentence'
+
+  6. Time (Adverb)
+    • 'at' which means 'adverb of time'
 
 adverb of place locative, ablative (çıkma), dative-allative (yönelme)
 
