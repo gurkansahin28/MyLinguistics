@@ -1,5 +1,9 @@
 LINGUISTIC PARAMETERS
 ---------------------
+GOAL
+----
+  Firstly, as a convention this document, aims to abstract some of the grammar and linguistic terms of English.
+  Secondly, it is a beginning point to elicit an object-oriented approach to handling sentences with this approach.
 
 A. Operators
 ---------
