@@ -86,6 +86,26 @@ B. Identifiers
     • 'am' which means 'adverb of manner'
     • 'af' which means 'adverb of frequency'
 
+-------------------------------------------------------------------
+CRITICS
+ By "a more comprehensive elaboration on the remaining identifiers," I mean that while your document introduces some identifiers like 'v1', 'v2', 'cn', and 'cr', it seems incomplete because:
 
+    Incomplete Categories:
+        For example, you’ve introduced identifiers for verb forms and clause types but haven’t listed other potential categories (e.g., noun forms, adjective forms, adverbs, determiners, or other linguistic elements). Including these would give a fuller picture of your convention.
+
+    Lack of Examples:
+        Showing practical applications of these identifiers in real sentences would make it easier to understand their usage. For instance, demonstrate how a noun clause ('cn') interacts with verb forms ('v1', 'v2') in a sentence.
+
+    Connections to Other Operators:
+        You’ve introduced operators like '|' and '+', but how these interact with identifiers isn’t fully explained. For example, can '+' be used to connect verb forms or clauses? If so, what would that look like?
+
+    Completeness of Grammar:
+        The system stops after introducing a few identifiers. Expanding it to include more linguistic components (e.g., sentence types, phrase types, or syntactic functions like subject, object, etc.) would make the convention more comprehensive and versatile.
+
+In summary, to enhance the clarity and utility of your convention, you could:
+
+    Extend the list of identifiers to cover a wider range of grammatical elements.
+    Provide more examples to demonstrate how the convention works in different contexts.
+    Elaborate on how operators interact with identifiers and linguistic elements.
 
 
