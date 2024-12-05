@@ -1,0 +1,54 @@
+Linguistics Parameters
+
+Let our operators be as the following:
+
+Operators
+---------------
+• '|' which means 'or'
+• '+' which means 'add'
+• '_' which means 'the rest of any phrase, clause or sentence'
+• ';' which means 'that is', 'that are', 'which is', or 'which are'
+• '--' which means 'that is', 'that are', 'which is' or 'which are'
+• 
+• 
+• 
+• 
+
+
+
+Identifiers
+--------------
+• 'v1' which means 'the simple present form of a verb'
+• 'v2' which means 'the simple past form of a verb'
+• 'v3' which means 'the past participle form of a verb'
+• 'ving' wihch means 'the proggressive form of a verb'
+
+• 'cn' which means 'clause of noun'
+• 'cr' which means 'clause of relative'
+• 'ca' which means 'clause of adverbial'
+
+• 'pi' which means 'phrase of infinitive'
+• 'pg' which means 'phrase of gerund'
+• 'pn' which means 'phrase of noun'
+
+• 'sbj' which means 'subject of a sentence'
+• 'sbj1' which means 'subject of a sentence'
+• the first personal pronoun
+
+• 'dobj' which means 'direct object of a sentence'
+• 'idobj' which means 'indirect object of a sentence'
+
+• 'at' which means  'adverb of time'
+
+adverb of place' locative, ablative (çıkma), dative-allative (yönelme)
+
+• 'ap-loc' which means 'adverb of place locative'
+• 'ap-all' which means 'adverb of place allative'
+• 'ap-ab' which means 'adverb of place ablative' 
+
+• 'am' which means 'adverb of manner'
+• 'af' which means 'adverd of frequency'
+
+
+
+
