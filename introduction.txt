@@ -9,6 +9,7 @@ A. Operators
   • ';' which means 'that is', 'that are', 'which is', or 'which are'
   • '--' which means 'that is', 'that are', 'which is' or 'which are'
 
+
 B. Identifiers
 --------------
   1. Verb
@@ -47,34 +48,39 @@ B. Identifiers
   5. Object
   ---------
     a. Singular
+    -----------
       • 'obj1' which means 'the first-person singular object pronoun'
       • 'obj2' means 'the second-person singular object pronoun'
       • 'obj3' means 'the third-person singular object pronoun'
 
     b. Plural
+    ---------
       • 'obj4' means 'the first-person plural object pronoun'
       • 'obj5' means 'the second-person plural object pronoun'
       • 'obj6' means 'the third-person plural object pronoun'
 
     c. Direct
     ---------
-      • 'dobj' which means 'direct object of a sentence'
+      • 'dObj' which means 'direct object of a sentence'
 
     d. Indirect
     -----------
-      • 'idobj' which means 'indirect object of a sentence'
+      • 'inObj' which means 'indirect object of a sentence'
 
   6. Time (Adverb)
+  ----------------
     • 'at' which means 'adverb of time'
 
-adverb of place locative, ablative (çıkma), dative-allative (yönelme)
+  7. Place (Adverb)
+  -----------------
+    • 'ap-loc' which means 'adverb of place locative' (in, at, on)
+    • 'ap-all' which means 'adverb of place allative' (to)
+    • 'ap-ab' which means 'adverb of place ablative' (from)
 
-• 'ap-loc' which means 'adverb of place locative'
-• 'ap-all' which means 'adverb of place allative'
-• 'ap-ab' which means 'adverb of place ablative' 
-
-• 'am' which means 'adverb of manner'
-• 'af' which means 'adverd of frequency'
+  8. Manner (Adverb)
+  ------------------
+    • 'am' which means 'adverb of manner'
+    • 'af' which means 'adverb of frequency'
 
 
 
